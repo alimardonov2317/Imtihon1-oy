@@ -1,0 +1,1 @@
+Ushbu loyihada [Figma](https://www.figma.com/design/h6RWQsl2BuSwOVaJDXrND6/EXAM-1-month?node-id=0-1&node-type=canvas&t=WKRqJfThLbATDMzX-0) saytidan bitta loyihani clone yasalgan.Ushbu loyiha html va css yordamida yozilgan.
